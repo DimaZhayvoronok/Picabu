@@ -381,6 +381,9 @@ body{
 .add-post .button-outline{
     margin-right: 1%;
 }
+textarea{
+    resize: none;
+}
 @media (max-width: 990px){
     .menu-toggle{
         display: flex;
